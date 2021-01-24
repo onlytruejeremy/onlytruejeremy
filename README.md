@@ -9,4 +9,4 @@
 
 
 
-[![Website]([<img src="https://raw.githubusercontent.com/onlytruejeremy/onlytruejeremy/9bdb6aaeaf2f6e549d046bc30da2ec6effd782e4/linkedin.svg" align="left" width="23px"/>])
+<a href="https://linkedin.com/in/barber-jeremy" target="_blank"><img src="https://raw.githubusercontent.com/onlytruejeremy/onlytruejeremy/9bdb6aaeaf2f6e549d046bc30da2ec6effd782e4/linkedin.svg" align="left" width="23px"/></a>
