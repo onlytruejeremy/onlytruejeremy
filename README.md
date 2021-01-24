@@ -9,5 +9,5 @@
 
 
 
-[![Website]( <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/onlytruejeremy/onlytruejeremy/6f993f74522011bbf070da511fb028d1fd6d8422/linkedin.svg" />)](https://onlytruejeremy.github.io)
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
