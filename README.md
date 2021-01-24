@@ -1,4 +1,4 @@
-## Welcome to my github, I'm Jeremy.
+# Welcome to my github, I'm Jeremy.
 ## About Me
 ### I'm a full stack developer with a focus on React, Node and SQL. Lately I've been using more document-based databases and taking a dive into react-native. If you're wondering why more isn't here I've been using code sandbox a lot for building projects and learning as of late, as I can code anywhere with it.
 
