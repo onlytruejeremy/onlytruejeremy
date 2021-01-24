@@ -1,6 +1,8 @@
-### Welcome to my github, I'm Jeremy.
+## Welcome to my github, I'm Jeremy.
 
 
 [![Website]( https://github.com/onlytruejeremy/onlytruejeremy/blob/main/portfolioimage.PNG?raw=true)](https://onlytruejeremy.github.io)
 
-## I'm a full stack developer with a focus on React, Node and SQL. Lately I've been using more document-based databases and taking a dive into react-native. If you're wondering why other things aren't on here I've been using code sandbox a lot for building projects and learning.
+### I'm a full stack developer with a focus on React, Node and SQL. Lately I've been using more document-based databases and taking a dive into react-native. If you're wondering why other things aren't on here I've been using code sandbox a lot for building projects and learning.
+
+### Contact Me:
