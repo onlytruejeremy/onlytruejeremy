@@ -4,5 +4,5 @@
 
 ## :heavy_plus_sign: Connect With Me:
 <a href="https://linkedin.com/in/barber-jeremy"><img src="https://raw.githubusercontent.com/onlytruejeremy/onlytruejeremy/9bdb6aaeaf2f6e549d046bc30da2ec6effd782e4/linkedin.svg"  height="50px"/></a>
-<br/>
-<a href="https://onlytruejeremy.github.io"><img src="https://github.com/onlytruejeremy/onlytruejeremy/blob/main/portfolioimage.PNG?raw=true"  height="100px"/></a>
+
+<a href="https://onlytruejeremy.github.io"><img src="https://github.com/onlytruejeremy/onlytruejeremy/blob/main/portfolioimage.PNG?raw=true"  height="50px"/></a>
