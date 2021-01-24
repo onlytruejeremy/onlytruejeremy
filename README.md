@@ -9,5 +9,8 @@
 
 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://onlytruejeremy.github.io]
+[![alt text][1.2]][1]
 
+[1.2]: https://raw.githubusercontent.com/onlytruejeremy/onlytruejeremy/9bdb6aaeaf2f6e549d046bc30da2ec6effd782e4/linkedin.svg
+
+[1]: https://linkedin.com/in/barber-jeremy
