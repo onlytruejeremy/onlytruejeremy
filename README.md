@@ -9,6 +9,4 @@
 
 
 
-[![alt text][[<img src="https://raw.githubusercontent.com/onlytruejeremy/onlytruejeremy/9bdb6aaeaf2f6e549d046bc30da2ec6effd782e4/linkedin.svg" align="left" width="23px"/>]]][1] 
-
-[1]: https://linkedin.com/in/barber-jeremy
+[![Website][<img src="https://raw.githubusercontent.com/onlytruejeremy/onlytruejeremy/9bdb6aaeaf2f6e549d046bc30da2ec6effd782e4/linkedin.svg" align="left" width="23px"/>]
