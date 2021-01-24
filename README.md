@@ -11,6 +11,6 @@
 
 [![alt text][1.2]][1]
 
-[1.2]: <img src="https://raw.githubusercontent.com/onlytruejeremy/onlytruejeremy/9bdb6aaeaf2f6e549d046bc30da2ec6effd782e4/linkedin.svg" align="left" size="23px"/>
+[1.2]: <img src="https://raw.githubusercontent.com/onlytruejeremy/onlytruejeremy/9bdb6aaeaf2f6e549d046bc30da2ec6effd782e4/linkedin.svg" align="left" width="23px"/>
 
 [1]: https://linkedin.com/in/barber-jeremy
