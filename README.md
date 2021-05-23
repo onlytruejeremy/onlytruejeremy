@@ -1,6 +1,6 @@
 # Welcome to my github, I'm Jeremy.
 ## :information_source: About Me
-### I'm a full stack developer with a focus on React, Node and SQL. Lately I've been using more document-based databases and taking a dive into react-native. If you're wondering why more isn't here I've been using code sandbox a lot for building projects and learning as of late due to the ability to just pickup where you left off almost anywhere.
+### My Primary Focus is ReactJS, NodeJS and MySQL. I have built a few projects in MongoDB and MySQL. Not everything is up on github as I often spend time learning something new and moving on to the next thing once I understand the fundamental concepts or the key differences between technology. (For example, relational databases and document based ones).
 
 ## :heavy_plus_sign: Connect With Me:
 ### Don't hesitate to reach out to me on Linkedin or to take a look at my portfolio site.
