@@ -1,8 +1,8 @@
-# Welcome to my github, I'm Jeremy.
+# Welcome, I'm Jeremy.
 ## :information_source: About Me
-### I'm a full stack web developer with a focus on ReactJS and NodeJS.
+### I am a Full Stack developer.
 
-I've built many projects for fun and simply to learn, many that have never made it on here.
+I specialize in JavaScript and have professional experience working with React, Node and SQL. 
 
 I'm always trying to grow as a developer and learn something new.
 ### What I've Used Recently
