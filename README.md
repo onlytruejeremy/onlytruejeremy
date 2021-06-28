@@ -5,6 +5,9 @@
 I specialize in JavaScript and have professional experience working with React, Node and SQL. 
 
 I'm always trying to grow as a developer and learn something new.
+### Current Project
+* [LessTraveled](https://github.com/onlytruejeremy/trips/tree/master)
+  * Create Trips and Share Them
 ### What I've Used Recently
 * Styled Components
 * SCCS
